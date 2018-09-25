@@ -1,5 +1,5 @@
 #!/bin/bash
-# Sign a file with a private and public keys using OpenSSL and verify it
+# Sign a file with a private key using OpenSSL and verify it
 # Encode the signature in Base64 format
 #
 # Usage: sign <file> <private_key>
